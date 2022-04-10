@@ -1,0 +1,23 @@
+.Mainpage{
+    display: flex;
+    padding: 1rem;
+    margin-left: 1rem;
+}
+.blogcata{
+    width: 24rem;
+    /* border: 0.5px solid rgb(148, 147, 147); */
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.Newspost{
+    width: 39rem;
+    
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.Active{
+    width: 24rem;
+    /* border: 0.5px solid rgb(134, 133, 133); */
+    margin-left: 1rem;
+    margin-right: 1rem;
+}

@@ -1,0 +1,38 @@
+ .containerone{
+     width: 50rem;
+     background-color: #cacccf;
+     margin-left: 20rem;
+ }
+
+
+.message{
+    height: 450px;
+    overflow: scroll;
+}
+
+
+.msg h1{
+   font-size: 25px;
+   font-weight: 600;
+   
+   margin-top: 1rem;
+   margin-left: 2rem;
+}
+.msgtwo p{
+     font-size: 18px;
+     font-weight: 600;
+     font-family: italic;
+     margin-left: 2rem;
+     width: 42rem;
+     
+   
+    
+ }
+ .msg2{
+    height: 3rem;
+    margin-left: 1rem;
+    width: 45rem;
+    margin-top: 5px;
+   
+    border-radius: 5rem;
+ }

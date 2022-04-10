@@ -1,0 +1,57 @@
+.profilecard{
+    width: 60rem;
+    display: flex;
+    margin-left: 20rem;
+    margin-top: 5rem;
+    background-color: rgba(245, 242, 239, 0.893);
+
+}
+.Aboutcard{
+    width: 60rem;
+    display: flex;
+    margin-left: 20rem;
+    background-color: rgba(245, 242, 239, 0.893);
+
+}
+.Acard{
+    margin-left: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+.Acardone{
+    width: 25rem;
+    margin-left: 2rem;
+    text-align: justify;
+}
+
+.infocard{
+    margin-left: 9rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+.infocard h1{
+    font-size: 20px;
+}
+.infocard h1 span{
+    text-decoration: none;
+    margin-left: 6px;
+}
+.piccard img{
+    /* border: 1px solid black; */
+    border-radius: 100rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 15rem;
+    width: 15rem;
+}
+
+.Acard h1{
+    font-size: 20px;
+}
+.Acard h1 span{
+    text-decoration: none;
+    margin-left: 6px;
+}

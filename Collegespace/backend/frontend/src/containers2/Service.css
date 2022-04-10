@@ -1,0 +1,33 @@
+
+.card{
+    width: 20rem;
+    height: 25rem;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left:  20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    font-family: cursive;
+    border: 0.8px solid white;
+    background-color: #e6e9eea6;
+}
+.card-img-top{
+    height: 14.9rem;
+    width: 19.9rem;
+    border-radius: 30px;
+}
+.row{
+    display: flex;
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px, 1fr));
+    */
+}
+.topic{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+span{
+    color: #3498db !important;
+    font-weight: 550;
+    
+}

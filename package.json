@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001312",
+    "react-icons": "^4.3.1"
+  }
+}

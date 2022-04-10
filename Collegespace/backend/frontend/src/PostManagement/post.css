@@ -1,0 +1,93 @@
+.Addpost{
+ width: 38rem;
+ padding: 2rem;
+ background-color: #e6e9eea6;
+ margin-top: 1rem;
+ border-radius: 2rem;
+   
+}
+ .Addpost h1{
+    text-align: center;
+    margin-top: 1px;
+    font-family: italic;
+    font-size: 30px;
+    
+   
+}
+ .but{
+    margin-left: 12rem;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 2rem ;
+    font-weight: 550;
+   
+}
+.Title label {
+     margin-left: 1rem;
+     font-size: 18px;
+     font-weight: 550;
+}
+
+.Title2 label {
+    margin-left: 1rem;
+    font-size: 18px;
+    font-weight: 550;
+}
+.Title3 label {
+    margin-left: 1rem;
+    font-size: 20px;
+    
+    font-weight: 550;
+}
+
+.Title input{
+    width: 20rem;
+    margin-left: 5rem;
+    height: 2rem;
+   
+}
+.Title2 input{
+    width: 20rem;
+    height: 3rem;
+    margin-left: 1.5rem;
+    margin-top: 5px;
+   
+}
+.Title3 input{
+   
+    height: 2.5rem;
+    margin-left: 4rem;
+    margin-top: 10px;
+}
+.Space{
+     margin-top: 4px;
+     margin-bottom: 4px;
+}
+
+.Show{
+    width: 38rem;
+   
+    align-items: center;
+    padding: 2rem;
+    background-color: #e6e9eea6;
+    margin-top: 30px;
+    border-radius: 2rem;
+    
+}
+
+.Show img{
+    width: 34rem;
+    height: 20rem;
+   
+}
+.text{
+    
+    text-align: justify;
+    font-family: italic;
+}
+
+.text h1{
+    font-family: Arial;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

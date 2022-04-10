@@ -1,0 +1,33 @@
+.Showschedule{
+    background-color: rgb(228, 241, 241);
+    width:80rem;
+    margin-left: 10rem;
+}
+
+.schedule h1{
+    text-align: center;
+    font-family: Arial;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 40px;
+    /* border-bottom: 2px solid red; */
+}
+.schedule h4{
+    font-family: Arial;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.schedule h3{
+    font-family: Arial;
+    text-align: end;
+    font-size: 20px;
+    margin-right: 3rem;
+    margin-bottom: 4rem;
+
+}
+.schedule p{
+    font-size: 35px;
+    margin-left: 5rem;
+}

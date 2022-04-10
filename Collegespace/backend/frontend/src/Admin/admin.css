@@ -1,0 +1,9 @@
+.mainadmin{
+    display: flex;
+}
+.adminnavtwo{
+    width: 80rem;
+    margin-left: 10rem;
+   height: 42rem;
+    overflow: scroll;
+}

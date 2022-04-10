@@ -1,0 +1,19 @@
+.top{
+    width: 280px;
+    height: 42rem;
+    border-radius: 2rem;
+    margin-left: 4rem;
+    margin-top: 22px;
+}
+.topmain{
+    background-color: blue;
+    border-radius: 2rem;
+    height: 2rem;
+    
+    
+}
+.topmain bi span{
+    color: white;
+    font-weight: 600;
+    
+}
